@@ -7,5 +7,3 @@ while True:
     elif user_input != number:
         print("Попробуйте снова")
         continue
-
-
